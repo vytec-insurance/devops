@@ -1,1 +1,5 @@
-updated
+pipeline{
+  agent any
+  stages{
+  }
+}
